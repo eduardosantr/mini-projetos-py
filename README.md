@@ -1,2 +1,5 @@
-# mini-projetos-py
-Lista de projetos criados para treinar python
+# Mini Projetos com python
+
+## Objetivo
+
+Praticar e compartilhar o conhecimento usando a linguagem Python.
